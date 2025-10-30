@@ -4,33 +4,6 @@
 #### Kelas  : TI.24.A4  
 #### Mata Kuliah : Pemrograman Web 1  
 
----
-
-# Praktikum 6 – Bootstrap Framework
-
-## Tujuan Praktikum
-1. Mahasiswa memahami konsep dan fungsi framework CSS **Bootstrap**.  
-2. Mahasiswa dapat membuat layout web responsif menggunakan sistem grid Bootstrap.  
-3. Mahasiswa mampu menggunakan berbagai komponen Bootstrap seperti navbar, card, dan button.  
-4. Mahasiswa dapat menerapkan Bootstrap untuk membuat tampilan web yang modern dan responsif.
-
----
-
-## Pengantar
-**Bootstrap** adalah framework CSS open-source yang digunakan untuk mempermudah pembuatan tampilan web responsif.  
-Dengan Bootstrap, kita dapat dengan cepat membuat layout yang rapi tanpa menulis banyak CSS secara manual.
-
-Beberapa fitur utama Bootstrap yang saya pelajari:
-- **Grid System:** Membagi layout menjadi 12 kolom untuk desain responsif.  
-- **Komponen UI:** Seperti navbar, card, carousel, button, dan alert.  
-- **Utilities:** Kelas bantu untuk margin, padding, warna, dan lainnya.  
-- **Responsiveness:** Desain menyesuaikan otomatis untuk tampilan desktop, tablet, dan smartphone.
-
----
-
-## Langkah-Langkah Praktikum
-
----
 
 ## LATIHAN 1 – Mengenal Struktur Dasar Bootstrap
 
