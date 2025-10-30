@@ -1,9 +1,3 @@
-Baik, Zaki. Berikut teks README.md lengkap dan formal untuk Praktikum 6 (Bootstrap) — disusun seperti alur laporan praktikummu sebelumnya (Lab 4), lengkap dengan urutan langkah, kode, penjelasan, dan tempat screenshot.
-Kamu tinggal salin seluruh teks ini ke GitHub, lalu tambahkan gambar hasil praktikmu di bagian yang sudah disiapkan.
-
-⸻
-
-
 # Lab6Web
 #### Nama   : Dzaki Arif Rahman  
 #### NIM    : 312410312  
