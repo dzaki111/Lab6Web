@@ -28,7 +28,7 @@ Pertama, saya membuat file `index.html` dan menambahkan link **Bootstrap CSS** d
   </div>
 </body>
 </html>
-
+```
 
 ⸻
 
